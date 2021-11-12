@@ -12,6 +12,11 @@
   align-items: center;
 }
 
+.my-form {
+  width: 100vw;
+  height: 100vh;
+}
+
 .footer {
   display: flex;
   flex: 1;
